@@ -111,7 +111,7 @@ form#signup input#email {
 	font-size:.9em;
 	background:rgba(255,255,255,.8) url(images/icon_email.svg) no-repeat 7px 6px;
 	background-size: 30px 17px;
-	padding: 5px 0px 12px 0px;
+	padding: 5px 0px 6px 47px;
 	border:none;
 	color:#264581;
 	width:80%
